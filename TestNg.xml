@@ -1,0 +1,8 @@
+<Suite name="Suite">
+	<test name="test">
+		<Parameter name="browser" value="chrome"/>
+		<classes>
+		<class name="com.Testcases.TC_LoginTest_001"/>	
+		</classes>	
+		</test>
+		</Suite>
